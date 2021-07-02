@@ -1,0 +1,1 @@
+Equivalency classes explorations through Mathematica
